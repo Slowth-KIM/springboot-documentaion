@@ -1,4 +1,4 @@
 # Table of contents
 
-* [Getting Started](README.md)
-  * [Introducing Spring Boot](getting-started/introducing-spring-boot.md)
+* [시작하면서](README.md)
+  * [Spring Boot 란?](undefined/spring-boot.md)
